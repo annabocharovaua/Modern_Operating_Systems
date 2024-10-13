@@ -1,0 +1,3 @@
+/mnt/host/c/Users/Acer/Downloads/Telegram Desktop/Modern-Operating-Systems-main/lab2/build/CMakeFiles/lab2.dir
+/mnt/host/c/Users/Acer/Downloads/Telegram Desktop/Modern-Operating-Systems-main/lab2/build/CMakeFiles/edit_cache.dir
+/mnt/host/c/Users/Acer/Downloads/Telegram Desktop/Modern-Operating-Systems-main/lab2/build/CMakeFiles/rebuild_cache.dir
