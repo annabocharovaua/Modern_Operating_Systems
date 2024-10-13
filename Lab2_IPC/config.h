@@ -1,2 +1,0 @@
-#define PACKET_SIZE (1024 * 512)
-#define NUMBER_OF_EXPERIMENTS 10
