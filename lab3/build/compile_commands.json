@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/host/c/Users/Acer/github/Modern_Operating_Systems/lab3/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/lab3.dir/main.c.o -c /mnt/host/c/Users/Acer/github/Modern_Operating_Systems/lab3/main.c",
+  "file": "/mnt/host/c/Users/Acer/github/Modern_Operating_Systems/lab3/main.c",
+  "output": "CMakeFiles/lab3.dir/main.c.o"
+}
+]
